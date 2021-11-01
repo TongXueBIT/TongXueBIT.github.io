@@ -1,4 +1,4 @@
-<a href="/index-en.md">English</a> [中文版](index.md)
+[中文版](index.md) <a href="/index-en.md">English</a> 
 
 ## Tong Xue (Human Computer Interaction, PhD Student)
 
