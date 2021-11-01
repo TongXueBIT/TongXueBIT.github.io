@@ -2,8 +2,6 @@
 
 ## Tong Xue (Human Computer Interaction, PhD Student)
 
-[中文版](index.md)
-
 <table border="0">
   <tr>
     <td width="75%">
