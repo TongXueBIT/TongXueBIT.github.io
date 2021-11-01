@@ -3,6 +3,22 @@
 You can use the [editor on GitHub](https://github.com/TongXueBIT/TongXueBIT.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 ![1_Tong Xue](https://user-images.githubusercontent.com/57761094/139632689-298b892e-2684-4b25-91ab-fa626c7d194b.jpg)
 
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>薛彤</h1>
+      <p><b>博士研究生</b></p>
+      <p><b>北京理工大学计算机学院</b></p>
+      <p><b>邮箱：xuetong@bit.edu.cn</b></p>
+    </td>
+    <td width="25%">
+      <img src="https://user-images.githubusercontent.com/57761094/139632689-298b892e-2684-4b25-91ab-fa626c7d194b.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
