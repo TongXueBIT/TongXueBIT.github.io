@@ -1,8 +1,8 @@
-<a href="/index-en.md">中文版</a>
+<a href="/index-en.md">中文版</a> [英文版](index-en.md)
 
 ## 薛彤的个人主页
 
-[英文版](index-en.md)
+
 
 <table border="0">
   <tr>
