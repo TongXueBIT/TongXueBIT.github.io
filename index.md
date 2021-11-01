@@ -1,9 +1,5 @@
 <a href="/index-en.md">中文版</a> [English](index-en.md)
 
-## 薛彤的个人主页
-
-
-
 <table border="0">
   <tr>
     <td width="75%">
@@ -19,7 +15,7 @@
 </table>
 
 
-### About Me
+### 基本信息
 我是北京理工大学一名博四的学生，导师是丁刚毅教授。
 
 #### 教育经历
