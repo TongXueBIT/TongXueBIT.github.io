@@ -19,7 +19,7 @@
 我是北京理工大学一名博四的学生，导师是丁刚毅教授。
 
 #### 教育背景
-<table width="100%" class="style_en_1" border="0">
+<table width="100%" border="0">
         <tbody>
         <tr>  <td width="140">2017.9~至今</td> <td width="40"></td>
             <td>北京理工大学 数字表演与仿真技术实验室（硕博连读）</td>
