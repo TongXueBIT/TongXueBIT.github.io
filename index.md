@@ -1,5 +1,7 @@
 ## 薛彤 （博士研究生）
 
+[英文版](index-en.md)
+
 <table border="0">
   <tr>
     <td width="75%">
@@ -14,5 +16,5 @@
   </tr>
 </table>
 
-[链接描述](url)
-[英文版](index-en.md)
+
+
