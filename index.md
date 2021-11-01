@@ -1,6 +1,7 @@
 ## Tong Xue (Human Computer Interaction, PhD Student)
 
 You can use the [editor on GitHub](https://github.com/TongXueBIT/TongXueBIT.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+![1_Tong Xue](https://user-images.githubusercontent.com/57761094/139632689-298b892e-2684-4b25-91ab-fa626c7d194b.jpg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
