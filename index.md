@@ -1,3 +1,5 @@
+<a href="/index-en.md">中文版</a>
+
 ## 薛彤 （博士研究生）
 
 [英文版](index-en.md)
