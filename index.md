@@ -1,8 +1,5 @@
 ## Tong Xue (Human Computer Interaction, PhD Student)
 
-You can use the [editor on GitHub](https://github.com/TongXueBIT/TongXueBIT.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-![1_Tong Xue](https://user-images.githubusercontent.com/57761094/139632689-298b892e-2684-4b25-91ab-fa626c7d194b.jpg)
-
 <table border="0">
   <tr>
     <td width="75%">
@@ -12,7 +9,7 @@ You can use the [editor on GitHub](https://github.com/TongXueBIT/TongXueBIT.gith
       <p><b>邮箱：xuetong@bit.edu.cn</b></p>
     </td>
     <td width="25%">
-      <img src="https://user-images.githubusercontent.com/57761094/139632689-298b892e-2684-4b25-91ab-fa626c7d194b.jpg" width="100%">      % 插入证件照代码
+      <img src="https://user-images.githubusercontent.com/57761094/139632689-298b892e-2684-4b25-91ab-fa626c7d194b.jpg" width="100%">   
     </td>
   </tr>
 </table>
