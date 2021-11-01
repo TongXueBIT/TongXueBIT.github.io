@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Tong Xue (Human Computer Interaction, PhD Student)
 
 You can use the [editor on GitHub](https://github.com/TongXueBIT/TongXueBIT.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
