@@ -1,7 +1,5 @@
 [中文版](index.md) <a href="/index-en.md">English</a> 
 
-## Tong Xue (Human Computer Interaction, PhD Student)
-
 <table border="0">
   <tr>
     <td width="75%">
