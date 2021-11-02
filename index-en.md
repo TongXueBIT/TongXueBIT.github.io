@@ -18,9 +18,9 @@
 I'm a PhD student at Beijing Institute of Technology...
 
 ### Education Background
-  - 2017.09~Now &emsp; &emsp; Beijing Institute of Technology
-  - 2019.10~2020.10 &emsp; CWI
-  - 2012.09~2016.06 &emsp; Communication of China
+  - 2017.09~Now &emsp; &emsp; Key Laboratory of Digital Performance and Simulation Technology, Beijing Institute of Technology (BIT)
+  - 2019.10~2020.10 &emsp; Distributed and Interactive Systems, Centrum Wiskunde & Informatica (CWI)
+  - 2012.09~2016.06 &emsp; Communication University of China (CUC)
 
 
 ### Awards
