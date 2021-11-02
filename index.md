@@ -41,7 +41,7 @@
 
 
 ### 学术成果
-  - **T. Xue**, A. el Ali, T. Zhang, G. Ding, and P. Cesar, “CEAP-360VR: A Continuous Physiological and Behavioral Emotion Annotation Dataset for 360° Videos, ”in IEEE Transactions on Multimedia (TMM), doi: 10.1109/TMM.2021.3124080..  SCI一区（Top）
+  - **T. Xue**, A. el Ali, T. Zhang, G. Ding, and P. Cesar, “CEAP-360VR: A Continuous Physiological and Behavioral Emotion Annotation Dataset for 360° Videos, ” To be published in IEEE Transactions on Multimedia. SCI Top, IF=6.513
   
   - **T. Xue**, A. el Ali, T. Zhang, G. Ding, and P. Cesar, “RCEA-360VR: Real-time, Continuous Emotion Annotation in 360 VR Videos for Collecting Precise Viewport-dependent Ground Truth Labels,” In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (ACM CHI 2021) . 1–15.  CCF A类会议
   
@@ -55,7 +55,7 @@
   
   - **T. Xue**, G. Ding and F. Zhang. “Augmented Reality-Based Pre-visualization for Film Making,”. International Conference on Smart Vehicular Technology, Transportation, Communication and Applications. Springer, Cham, 2018: 217-222. EI会议
   
-  - Y. Wu, L. Zhang, G. Ding, **T. Xue**, F. Zhang. “Modeling of Performance Creative Evaluation Driven by Multimodal Affective Data,” International Journal of Interactive Multimedia & Artificial Intelligence (IJIMAI). 2021, 6(7). SCI三区
+  - Y. Wu, L. Zhang, G. Ding, **T. Xue**, F. Zhang. “Modeling of Performance Creative Evaluation Driven by Multimodal Affective Data,” International Journal of Interactive Multimedia & Artificial Intelligence (IJIMAI). 2021, 6(7). SCI, IF=3.137
   
   - L. He, H. Li, **T. Xue**, D. Sun, S. Zhu, and G. Ding. “Am I in the theater? usability study of live performance based virtual reality,”In Proceedings of the 24th ACM Symposium on Virtual Reality Software and Technology (VRST ‘18). New York, NY, USA, Article 28, 1–11. EI会议
   
@@ -69,3 +69,16 @@
 
 
 ### 项目经历
+
+熟练掌握Unreal，Unity引擎开发，掌握C++，Python，R等编程语言，
+作为小组负责人和核心技术骨干参与完成以下国家级大型活动的仿真工作：
+  - 2021年庆祝中国共产党成立100周年大会和《伟大征程》文艺演出仿真任务
+ 
+  - 2019年国庆70周年庆祝大会群众游行、晚会、观礼及集结疏散仿真任务
+
+  - 2018年青岛上合峰会开幕式晚会预演仿真
+ 
+  - 2018年平昌冬奥会北京八分钟虚拟仿真工作
+
+
+
