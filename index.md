@@ -36,7 +36,9 @@
 
 ### 学术成果
   - T. Xue, A. el Ali, T. Zhang, G. Ding, and P. Cesar, “CEAP-360VR: A Continuous Physiological and Behavioral Emotion Annotation Dataset for 360° Videos, ”in IEEE Transactions on Multimedia (TMM), doi: 10.1109/TMM.2021.3124080..  SCI一区（Top），第一作者
+  
   - T. Xue, A. el Ali, T. Zhang, G. Ding, and P. Cesar, “RCEA-360VR: Real-time, Continuous Emotion Annotation in 360 VR Videos for Collecting Precise Viewport-dependent Ground Truth Labels,” In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (ACM CHI 2021) . 1–15.  CCF A类会议，第一作者
+  
   - T. Xue, G. Ding, A. el Ali, and P. Cesar, “Investigating the Relationship between Momentary Emotion Self-reports and Head and Eye Movements in HMD-based 360° VR Video Watching,” in Extended Abstracts of the SIGCHI Conference on Human Factors in Computing Systems (ACM CHI 2021), 2021. CCF A类会议，第一作者
   - T. Xue, S. Ghosh, G. Ding, A. el Ali, and P. Cesar, “Designing Real-time, Continuous Emotion Annotation Techniques for 360 VR Videos,” in Extended Abstracts of the SIGCHI Conference on Human Factors in Computing Systems (ACM CHI 2020), Honolulu, USA, April 25-30, 2020. CCF A类会议，第一作者
   - T. Xue, J. Li, G. Chen, and P. Cesar, "A Social VR Clinic for Knee Arthritis Patients with Haptics,” in Adjunct Proceedings of the ACM International Conference on Interactive Media Experiences (ACM IMX 2020), Barcelona, Spain, June 17-19, 2020.   Best Demo Awards，第一作者
