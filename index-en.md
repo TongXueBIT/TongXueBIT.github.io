@@ -20,7 +20,7 @@ I'm a PhD student at Beijing Institute of Technology...
 ### Education Background
   - 2017.09~Now &emsp;  Beijing Institute of Technology
   - 2019.10~2020.10 &emsp; CWI
-  - 2012.09~2016.06 &emsp; Communication
+  - 2012.09~2016.06 &emsp; Communication of China
 
 
 ### Awards
