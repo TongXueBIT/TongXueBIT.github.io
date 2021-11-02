@@ -16,7 +16,7 @@
 
 
 
-Tong Xue received her B.E. degree from Communication University of China in 2016. She is currently working toward the PhD degree in School of Computer Science and Technology, Beijing Institute of Technology, supervised by Prof. Gangyi Ding. She is a joint PhD student at Distributed and Interactive Systems, Centrum Wiskunde \& Informatica (CWI),  supervised by Prof. Pablo Cesar and Dr. [Abdallah El Ali](https://abdoelali.com/). Her research interests lie in human-computer interaction and affective computing.
+Tong Xue received her B.E. degree from Communication University of China in 2016. She is currently working toward the PhD degree in School of Computer Science and Technology, Beijing Institute of Technology, supervised by Prof. Gangyi Ding. She is a joint PhD student at Distributed and Interactive Systems, Centrum Wiskunde \& Informatica (CWI),  supervised by [Prof. Pablo Cesar](https://www.pablocesar.me/) and [Dr. Abdallah El Ali](https://abdoelali.com/). Her research interests lie in human-computer interaction and affective computing.
 
 ### 教育背景
   - 2017.09~至今 &emsp; &emsp;  北京理工大学 数字表演与仿真技术实验室（硕博连读）
