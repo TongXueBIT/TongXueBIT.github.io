@@ -13,3 +13,18 @@
     </td>
   </tr>
 </table>
+
+
+I'm a PhD student at Beijing Institute of Technology...
+
+#### Education Background
+ - 2017.09~Now    Beijing Institute of Technology
+ - 2019.10~2020.10  CWI
+ - 2012.09~2016.06  Communication
+
+
+### Awards
+
+### Publications
+
+### Projects
