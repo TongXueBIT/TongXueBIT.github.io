@@ -20,7 +20,9 @@ Tong Xue received her B.E. degree from Communication University of China in 2016
 
 ### 教育背景
   - 2017.09~至今 &emsp; &emsp;  北京理工大学 数字表演与仿真技术实验室（硕博连读）
+  
   - 2019.10~2020.10 &emsp; 荷兰数学与计算机国家科学研究院（国家公派联合培养博士）
+  
   - 2012.09~2016.06 &emsp; 中国传媒大学 数字游戏设计 （工学学士）
 
 
