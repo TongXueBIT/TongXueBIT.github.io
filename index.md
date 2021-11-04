@@ -41,7 +41,7 @@ Tong Xue received her B.E. degree from Communication University of China in 2016
 
 
 ### 学术成果
-  - **T. Xue**, A. el Ali, T. Zhang, G. Ding, and P. Cesar, “CEAP-360VR: A Continuous Physiological and Behavioral Emotion Annotation Dataset for 360° Videos, ” To be published in IEEE Transactions on Multimedia. SCI Top, IF=6.513
+  - **T. Xue**, A. El Ali, T. Zhang, G. Ding and P. Cesar, "CEAP-360VR: A Continuous Physiological and Behavioral Emotion Annotation Dataset for 360 VR Videos," in IEEE Transactions on Multimedia, doi: 10.1109/TMM.2021.3124080. SCI Top, IF=6.513
   
   - **T. Xue**, A. el Ali, T. Zhang, G. Ding, and P. Cesar, “RCEA-360VR: Real-time, Continuous Emotion Annotation in 360 VR Videos for Collecting Precise Viewport-dependent Ground Truth Labels,” In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (ACM CHI 2021) . 1–15.  CCF A类会议
   
