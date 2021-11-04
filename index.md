@@ -1,4 +1,4 @@
-<a href="/index-en.md">中文版</a> [English](index-en.md)
+
 
 <table border="0">
   <tr>
