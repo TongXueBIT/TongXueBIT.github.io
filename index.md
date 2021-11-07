@@ -45,11 +45,11 @@ I received B.E. degree from Communication University of China in 2016. I am curr
 ### 学术成果
   - **T. Xue**, A. El Ali, T. Zhang, G. Ding and P. Cesar, "CEAP-360VR: A Continuous Physiological and Behavioral Emotion Annotation Dataset for 360 VR Videos," in IEEE Transactions on Multimedia, doi: 10.1109/TMM.2021.3124080. SCI Top, IF=6.513
   
-  - **T. Xue**, A. el Ali, T. Zhang, G. Ding, and P. Cesar, “RCEA-360VR: Real-time, Continuous Emotion Annotation in 360 VR Videos for Collecting Precise Viewport-dependent Ground Truth Labels,” In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (ACM CHI 2021) . 1–15.  CCF A类会议
+  - **T. Xue**, A. el Ali, T. Zhang, G. Ding, and P. Cesar, “RCEA-360VR: Real-time, Continuous Emotion Annotation in 360 VR Videos for Collecting Precise Viewport-dependent Ground Truth Labels,” In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (ACM CHI 2021). 1–15, doi: 10.1145/3411764.3445487. CCF A类会议
   
-  - **T. Xue**, G. Ding, A. el Ali, and P. Cesar, “Investigating the Relationship between Momentary Emotion Self-reports and Head and Eye Movements in HMD-based 360° VR Video Watching,” in Extended Abstracts of the SIGCHI Conference on Human Factors in Computing Systems (ACM CHI 2021), 2021. CCF A类会议
+  - **T. Xue**, G. Ding, A. el Ali, and P. Cesar, “Investigating the Relationship between Momentary Emotion Self-reports and Head and Eye Movements in HMD-based 360° VR Video Watching,” in Extended Abstracts of the SIGCHI Conference on Human Factors in Computing Systems (ACM CHI 2021), 2021, doi: 10.1145/3411763.3451627. CCF A类会议
   
-  - **T. Xue**, S. Ghosh, G. Ding, A. el Ali, and P. Cesar, “Designing Real-time, Continuous Emotion Annotation Techniques for 360 VR Videos,” in Extended Abstracts of the SIGCHI Conference on Human Factors in Computing Systems (ACM CHI 2020), Honolulu, USA, April 25-30, 2020. CCF A类会议
+  - **T. Xue**, S. Ghosh, G. Ding, A. el Ali, and P. Cesar, “Designing Real-time, Continuous Emotion Annotation Techniques for 360 VR Videos,” in Extended Abstracts of the SIGCHI Conference on Human Factors in Computing Systems (ACM CHI 2020), Honolulu, USA, April 25-30, 2020, doi: 10.1145/3334480.3382895. CCF A类会议
   
   - **T. Xue**, J. Li, G. Chen, and P. Cesar, "A Social VR Clinic for Knee Arthritis Patients with Haptics,” in Adjunct Proceedings of the ACM International Conference on Interactive Media Experiences (ACM IMX 2020), Barcelona, Spain, June 17-19, 2020.   Best Demo Awards
   
@@ -59,7 +59,7 @@ I received B.E. degree from Communication University of China in 2016. I am curr
   
   - Y. Wu, L. Zhang, G. Ding, **T. Xue**, F. Zhang. “Modeling of Performance Creative Evaluation Driven by Multimodal Affective Data,” International Journal of Interactive Multimedia & Artificial Intelligence (IJIMAI). 2021, 6(7). SCI, IF=3.137
   
-  - L. He, H. Li, **T. Xue**, D. Sun, S. Zhu, and G. Ding. “Am I in the theater? usability study of live performance based virtual reality,”In Proceedings of the 24th ACM Symposium on Virtual Reality Software and Technology (VRST ‘18). New York, NY, USA, Article 28, 1–11. EI会议
+  - L. He, H. Li, **T. Xue**, D. Sun, S. Zhu, and G. Ding. “Am I in the theater? usability study of live performance based virtual reality,”In Proceedings of the 24th ACM Symposium on Virtual Reality Software and Technology (VRST ‘18). New York, NY, USA, Article 28, 1–11, doi: 10.1145/3281505.3281508. EI会议
   
   - 一种直播方案仿真设计验证方法. 国家发明专利：CN111711733B. 第一发明人
   
