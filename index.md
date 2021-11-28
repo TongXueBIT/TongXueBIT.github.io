@@ -47,7 +47,7 @@ I received B.E. degree from Communication University of China in 2016. I am curr
   
   - **T. Xue**, A. el Ali, T. Zhang, G. Ding, and P. Cesar, “RCEA-360VR: Real-time, Continuous Emotion Annotation in 360 VR Videos for Collecting Precise Viewport-dependent Ground Truth Labels,” In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (ACM CHI 2021). 1–15, doi: 10.1145/3411764.3445487. CCF A类会议
   
-  - **T. Xue**, G. Ding, A. el Ali, and P. Cesar, “Investigating the Relationship between Momentary Emotion Self-reports and Head and Eye Movements in HMD-based 360° VR Video Watching,” in Extended Abstracts of the SIGCHI Conference on Human Factors in Computing Systems (ACM CHI 2021), 2021, doi: 10.1145/3411763.3451627. CCF A类会议
+  - **T. Xue**, A. el Ali, G. Ding, and P. Cesar, “Investigating the Relationship between Momentary Emotion Self-reports and Head and Eye Movements in HMD-based 360° VR Video Watching,” in Extended Abstracts of the SIGCHI Conference on Human Factors in Computing Systems (ACM CHI 2021), 2021, doi: 10.1145/3411763.3451627. CCF A类会议
   
   - **T. Xue**, S. Ghosh, G. Ding, A. el Ali, and P. Cesar, “Designing Real-time, Continuous Emotion Annotation Techniques for 360 VR Videos,” in Extended Abstracts of the SIGCHI Conference on Human Factors in Computing Systems (ACM CHI 2020), Honolulu, USA, April 25-30, 2020, doi: 10.1145/3334480.3382895. CCF A类会议
   
