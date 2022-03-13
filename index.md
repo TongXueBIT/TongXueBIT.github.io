@@ -4,8 +4,9 @@
   <tr>
     <td width="75%">
       <h1>薛彤</h1>
-      <p><b>博士研究生</b></p>
+      <p><b>博士研究生（硕博连读）</b></p>
       <p><b>北京理工大学计算机学院</b></p>
+      <p><b>数字表演与仿真技术实验室（导师：丁刚毅教授）</b></p>
       <p><b>xuetong@bit.edu.cn</b></p>
     </td>
     <td width="25%">
@@ -19,7 +20,7 @@
 I received B.E. degree from Communication University of China in 2016. I am currently working toward the PhD degree in School of Computer Science and Technology, Beijing Institute of Technology, supervised by Prof. Gangyi Ding. I am a joint PhD student at [Distributed and Interactive Systems](https://www.dis.cwi.nl/), [Centrum Wiskunde \& Informatica (CWI)](https://www.cwi.nl/), supervised by [Prof. Pablo Cesar](https://www.pablocesar.me/) and [Dr. Abdallah El Ali](https://abdoelali.com/). My research interests lie in human-computer interaction and affective computing.
 
 ### 教育背景
-  - 2017.09~至今 &emsp; &emsp;  北京理工大学 数字表演与仿真技术实验室（硕博连读）
+  - 2017.09~至今 &emsp; &emsp;  北京理工大学 软件工程（工学博士）
   
   - 2019.10~2020.10 &emsp; 荷兰数学与计算机国家科学研究院（国家公派联合培养博士）
   
