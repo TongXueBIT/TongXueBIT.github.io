@@ -27,11 +27,13 @@ I received B.E. degree from Communication University of China in 2016. I am curr
 
 
 ### 荣誉奖项
+  - 2021.10 &emsp; &emsp; &emsp;2021年度中国仿真学会科学技术一等奖
+  
+  - 2020.11 &emsp; &emsp; &emsp;第六届中国（国际）大学生“互联网+”创新创业大赛国家级金奖（项目负责人）
+  
   - 2021.07 &emsp; &emsp; &emsp;庆祝共产党成立100周年文艺演出、庆祝大会贡献奖（仿真组）
   
   - 2021.05 &emsp; &emsp; &emsp;北京理工大学-2021年度“科研创新”榜样（每年度仅一人）
-  
-  - 2020.11 &emsp; &emsp; &emsp;第六届中国（国际）大学生“互联网+”创新创业大赛国家级金奖（项目负责人）
   
   - 2020.09 &emsp; &emsp; &emsp;北京地区高校大学生优秀创业团队一等奖（团队负责人）
   
@@ -61,18 +63,24 @@ I received B.E. degree from Communication University of China in 2016. I am curr
   
   - L. He, H. Li, **T. Xue**, D. Sun, S. Zhu, and G. Ding. “Am I in the theater? usability study of live performance based virtual reality,”In Proceedings of the 24th ACM Symposium on Virtual Reality Software and Technology (VRST ‘18). New York, NY, USA, Article 28, 1–11, doi: 10.1145/3281505.3281508. EI会议
   
-  - 一种直播方案仿真设计验证方法. 国家发明专利：CN111711733B. 第一发明人
+  - 一种直播方案仿真设计验证方法. 国家发明专利：ZL20200828974.4（已授权）. **第一发明人**
   
-  - 一种智能直播仿真预演系统. 国家发明专利：CN111709970B. 第一发明人
+  - 一种智能直播仿真预演系统. 国家发明专利：ZL202010834533.5（已授权）. **第一发明人**
   
   - 大型广场晚会演出仿真实验系统. 软件著作权. 第一完成人
   
-  - 剧场表演重建方法及装置. 国家发明专利：CN110062132B. 第三发明人
+  - 剧场表演重建方法及装置. 国家发明专利：ZL201910300378.6（已授权）. **第三发明人**
 
 
 ### 项目经历
 
-熟练掌握Unreal，Unity引擎开发，掌握C++，Python，R等编程语言，
+作为骨干参加国家重点研发计划项目1项，国家自然科学基金面上项目1项：
+  - 冬奥会开闭幕式大型表演智能化创编排演一体化服务平台关键技术，国家重点研发计划
+  
+  - 基于扩展现实的高大成都协同学习空间构建技术研究，国家自然科学基金（面上）
+
+
+
 作为小组负责人和核心技术骨干参与完成以下国家级大型活动的仿真工作：
   - 2021年庆祝中国共产党成立100周年大会和《伟大征程》文艺演出仿真任务
  
@@ -81,6 +89,9 @@ I received B.E. degree from Communication University of China in 2016. I am curr
   - 2018年青岛上合峰会开幕式晚会预演仿真
  
   - 2018年平昌冬奥会北京八分钟虚拟仿真工作
+ 
+
+熟练掌握Unreal，Unity引擎开发，掌握C++，Python，R等编程语言，熟悉VR/AR开发
 
 
 
