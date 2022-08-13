@@ -52,7 +52,7 @@ I received B.E. degree from Communication University of China in 2016. I am curr
 ### 学术成果
   - **T. Xue**, A. El Ali, I. Viola, G. Ding and P. Cesar, "Designing Real-time, Continuous QoE Score Acquisition Techniques for HMD-based 360 VR Video Watching," to be published in 2022 Eighth International Conference on Quality of Multimedia Experience (QoMEX). **EI会议, 第一作者**
 
-- **T. Xue**, A. El Ali, T. Zhang, G. Ding and P. Cesar, "CEAP-360VR: A Continuous Physiological and Behavioral Emotion Annotation Dataset for 360 VR Videos," in IEEE Transactions on Multimedia, doi: 10.1109/TMM.2021.3124080. **SCI Top, IF=6.513, 第一作者** 
+  - **T. Xue**, A. El Ali, T. Zhang, G. Ding and P. Cesar, "CEAP-360VR: A Continuous Physiological and Behavioral Emotion Annotation Dataset for 360 VR Videos," in IEEE Transactions on Multimedia, doi: 10.1109/TMM.2021.3124080. **SCI Top, IF=6.513, 第一作者** 
   
   - **T. Xue**, A. el Ali, T. Zhang, G. Ding, and P. Cesar, “RCEA-360VR: Real-time, Continuous Emotion Annotation in 360 VR Videos for Collecting Precise Viewport-dependent Ground Truth Labels,” In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (ACM CHI 2021). 1–15, doi: 10.1145/3411764.3445487. **CCF A类会议, 第一作者**
   
