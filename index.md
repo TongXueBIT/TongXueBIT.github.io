@@ -28,13 +28,17 @@ I received B.E. degree from Communication University of China in 2016. I am curr
 
 
 ### 荣誉奖项
+  - 2022.07 &emsp; &emsp; &emsp;北京市优秀毕业生，北京理工大学优秀毕业生
+ 
   - 2021.10 &emsp; &emsp; &emsp;2021年度中国仿真学会科学技术一等奖（主要完成人）
-  
-  - 2020.11 &emsp; &emsp; &emsp;第六届中国（国际）大学生“互联网+”创新创业大赛国家级金奖（项目负责人）
   
   - 2021.07 &emsp; &emsp; &emsp;庆祝共产党成立100周年文艺演出、庆祝大会个人贡献奖
   
   - 2021.05 &emsp; &emsp; &emsp;北京理工大学-2021年度“科研创新”榜样（每年度仅一人）
+  
+  - 2020.12 &emsp; &emsp; &emsp;第十二届“挑战杯”中国大学生创业计划竞赛国家级银奖（项目负责人）
+
+  - 2020.11 &emsp; &emsp; &emsp;第六届中国（国际）大学生“互联网+”创新创业大赛国家级金奖（项目负责人）
   
   - 2020.09 &emsp; &emsp; &emsp;北京地区高校大学生优秀创业团队一等奖（团队负责人）
   
@@ -46,23 +50,25 @@ I received B.E. degree from Communication University of China in 2016. I am curr
 
 
 ### 学术成果
-  - **T. Xue**, A. El Ali, T. Zhang, G. Ding and P. Cesar, "CEAP-360VR: A Continuous Physiological and Behavioral Emotion Annotation Dataset for 360 VR Videos," in IEEE Transactions on Multimedia, doi: 10.1109/TMM.2021.3124080. SCI Top, IF=6.513
+  - **T. Xue**, A. El Ali, I. Viola, G. Ding and P. Cesar, "Designing Real-time, Continuous QoE Score Acquisition Techniques for HMD-based 360 VR Video Watching," to be published in 2022 Eighth International Conference on Quality of Multimedia Experience (QoMEX). **EI会议, 第一作者**
+
+- **T. Xue**, A. El Ali, T. Zhang, G. Ding and P. Cesar, "CEAP-360VR: A Continuous Physiological and Behavioral Emotion Annotation Dataset for 360 VR Videos," in IEEE Transactions on Multimedia, doi: 10.1109/TMM.2021.3124080. **SCI Top, IF=6.513, 第一作者** 
   
-  - **T. Xue**, A. el Ali, T. Zhang, G. Ding, and P. Cesar, “RCEA-360VR: Real-time, Continuous Emotion Annotation in 360 VR Videos for Collecting Precise Viewport-dependent Ground Truth Labels,” In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (ACM CHI 2021). 1–15, doi: 10.1145/3411764.3445487. CCF A类会议
+  - **T. Xue**, A. el Ali, T. Zhang, G. Ding, and P. Cesar, “RCEA-360VR: Real-time, Continuous Emotion Annotation in 360 VR Videos for Collecting Precise Viewport-dependent Ground Truth Labels,” In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (ACM CHI 2021). 1–15, doi: 10.1145/3411764.3445487. **CCF A类会议, 第一作者**
   
-  - **T. Xue**, A. el Ali, G. Ding, and P. Cesar, “Investigating the Relationship between Momentary Emotion Self-reports and Head and Eye Movements in HMD-based 360° VR Video Watching,” in Extended Abstracts of the SIGCHI Conference on Human Factors in Computing Systems (ACM CHI 2021), 2021, doi: 10.1145/3411763.3451627. CCF A类会议
+  - **T. Xue**, A. el Ali, G. Ding, and P. Cesar, “Investigating the Relationship between Momentary Emotion Self-reports and Head and Eye Movements in HMD-based 360° VR Video Watching,” in Extended Abstracts of the SIGCHI Conference on Human Factors in Computing Systems (ACM CHI 2021), 2021, doi: 10.1145/3411763.3451627. **CCF A类会议, 第一作者**
   
-  - **T. Xue**, S. Ghosh, G. Ding, A. el Ali, and P. Cesar, “Designing Real-time, Continuous Emotion Annotation Techniques for 360 VR Videos,” in Extended Abstracts of the SIGCHI Conference on Human Factors in Computing Systems (ACM CHI 2020), Honolulu, USA, April 25-30, 2020, doi: 10.1145/3334480.3382895. CCF A类会议
+  - **T. Xue**, S. Ghosh, G. Ding, A. el Ali, and P. Cesar, “Designing Real-time, Continuous Emotion Annotation Techniques for 360 VR Videos,” in Extended Abstracts of the SIGCHI Conference on Human Factors in Computing Systems (ACM CHI 2020), Honolulu, USA, April 25-30, 2020, doi: 10.1145/3334480.3382895. **CCF A类会议, 第一作者**
   
-  - **T. Xue**, J. Li, G. Chen, and P. Cesar, "A Social VR Clinic for Knee Arthritis Patients with Haptics,” in Adjunct Proceedings of the ACM International Conference on Interactive Media Experiences (ACM IMX 2020), Barcelona, Spain, June 17-19, 2020.   Best Demo Awards
+  - **T. Xue**, J. Li, G. Chen, and P. Cesar, "A Social VR Clinic for Knee Arthritis Patients with Haptics,” in Adjunct Proceedings of the ACM International Conference on Interactive Media Experiences (ACM IMX 2020), Barcelona, Spain, June 17-19, 2020.   **Best Demo Awards, 第一作者**
   
-  - **T. Xue**, A. El Ali, G. Ding, and P. Cesar, “Annotation Tool for Precise Emotion Ground Truth Label Acquisition while Watching 360 VR Videos,” In Proceedings of the IEEE International Conference on Artificial Intelligence and Virtual Reality (IEEE AIVR 2020), Utrecht, the Netherlands, December 14-18, 2020. EI会议
+  - **T. Xue**, A. El Ali, G. Ding, and P. Cesar, “Annotation Tool for Precise Emotion Ground Truth Label Acquisition while Watching 360 VR Videos,” In Proceedings of the IEEE International Conference on Artificial Intelligence and Virtual Reality (IEEE AIVR 2020), Utrecht, the Netherlands, December 14-18, 2020. **EI会议, 第一作者**
   
-  - **T. Xue**, G. Ding and F. Zhang. “Augmented Reality-Based Pre-visualization for Film Making,”. International Conference on Smart Vehicular Technology, Transportation, Communication and Applications. Springer, Cham, 2018: 217-222. EI会议
+  - **T. Xue**, G. Ding and F. Zhang. “Augmented Reality-Based Pre-visualization for Film Making,”. International Conference on Smart Vehicular Technology, Transportation, Communication and Applications. Springer, Cham, 2018: 217-222. **EI会议, 第一作者**
   
-  - Y. Wu, L. Zhang, G. Ding, **T. Xue**, F. Zhang. “Modeling of Performance Creative Evaluation Driven by Multimodal Affective Data,” International Journal of Interactive Multimedia & Artificial Intelligence (IJIMAI). 2021, 6(7). SCI, IF=3.137
+  - Y. Wu, L. Zhang, G. Ding, **T. Xue**, F. Zhang. “Modeling of Performance Creative Evaluation Driven by Multimodal Affective Data,” International Journal of Interactive Multimedia & Artificial Intelligence (IJIMAI). 2021, 6(7). **SCI三区, IF=3.137, 第三作者**
   
-  - L. He, H. Li, **T. Xue**, D. Sun, S. Zhu, and G. Ding. “Am I in the theater? usability study of live performance based virtual reality,”In Proceedings of the 24th ACM Symposium on Virtual Reality Software and Technology (VRST ‘18). New York, NY, USA, Article 28, 1–11, doi: 10.1145/3281505.3281508. EI会议
+  - L. He, H. Li, **T. Xue**, D. Sun, S. Zhu, and G. Ding. “Am I in the theater? usability study of live performance based virtual reality,”In Proceedings of the 24th ACM Symposium on Virtual Reality Software and Technology (VRST ‘18). New York, NY, USA, Article 28, 1–11, doi: 10.1145/3281505.3281508. **EI会议, 第三作者**
   
   - 一种直播方案仿真设计验证方法. 国家发明专利：ZL20200828974.4（已授权）. **第一发明人**
   
